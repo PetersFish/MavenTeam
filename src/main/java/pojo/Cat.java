@@ -12,7 +12,7 @@ public class Cat extends Animal {
 
     public void makesound() {
 
-        System.out.println("司总踢出群");
+        System.out.println("司踢出群");
 
     }
 
