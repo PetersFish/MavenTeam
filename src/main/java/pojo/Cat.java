@@ -20,6 +20,8 @@ public class Cat extends Animal {
 
         System.out.println("副组长是权力中心");
 
+
+
     }
 
 }
