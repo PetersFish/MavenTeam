@@ -1,6 +1,6 @@
 package pojo;
 
-// Test class
+// Test  class
 public class Bird extends Animal {
 
     public void eat() {
